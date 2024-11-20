@@ -20,8 +20,15 @@ Teste_Analytics_MuriloCalore/
 
 
 - **data/**: Contém os datasets utilizados.
+  - vendas_dataset.csv
+  - data_clean.csv
 - **scripts/**: Scripts para gerar, limpar e analisar os dados, além das consultas SQL.
+  - limpeza_analise_vendas.py
+  - analise_exploratoria_vendas.py
+  - consultas_sql.sql
 - **reports/**: Relatórios gerados a partir das análises.
+  - relatorio_insights.md
+- **requirements.txt**: Lista de dependências do projeto.
 - **README.md**: Documentação do projeto.
 
 ## Pré-requisitos
