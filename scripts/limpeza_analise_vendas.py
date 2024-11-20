@@ -48,12 +48,12 @@ duplicatas = df.sample(frac=0.10, random_state=42)
 df = pd.concat([df, duplicatas], ignore_index=True)
 
 # Salvando o dataset simulado
-df.to_csv("vendas_dataset.csv", index=False)
+df.to_csv("data/vendas_dataset.csv", index=False)
 
 # 2. Limpeza dos Dados
 
 # Carregando o dataset
-df_limpo = pd.read_csv("vendas_dataset.csv")
+df_limpo = pd.read_csv("data/vendas_dataset.csv")
 
 # Tratamento de valores faltantes
 df_limpo.dropna(inplace=True)  # Removemos as linhas com valore faltantes
@@ -70,12 +70,12 @@ df_limpo["Quantidade"] = df_limpo["Quantidade"].astype(int)
 df_limpo["Preço"] = df_limpo["Preço"].astype(float)
 
 # Salvando o dataset limpo
-df_limpo.to_csv("data_clean.csv", index=False)
+df_limpo.to_csv("data/data_clean.csv", index=False)
 
 # 3. Análise dos Dados Limpos
 
 # Carregando o dataset limpo
-df_clean = pd.read_csv("data_clean.csv")
+df_clean = pd.read_csv("data/data_clean.csv")
 
 # Calculando o total de vendas por produto
 df_clean["Total_Vendas"] = df_clean["Quantidade"] * df_clean["Preço"]

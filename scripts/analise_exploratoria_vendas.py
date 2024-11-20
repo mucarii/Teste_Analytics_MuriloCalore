@@ -7,7 +7,7 @@ import seaborn as sns
 sns.set(style="whitegrid")
 
 # Carregando o dataset limpo
-df_clean = pd.read_csv("data_clean.csv", parse_dates=["Data"])
+df_clean = pd.read_csv("data/data_clean.csv", parse_dates=["Data"])
 
 # Calculando o total de vendas por registro
 df_clean["Total_Vendas"] = df_clean["Quantidade"] * df_clean["Preço"]
