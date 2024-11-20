@@ -1,0 +1,221 @@
+ID,Data,Produto,Categoria,Quantidade,Preço
+1,2023-04-17,Produto E,Categoria 1,35.0,436.98
+2,2023-01-06,Produto E,Categoria 2,17.0,48.19
+3,2023-09-24,Produto E,Categoria 4,10.0,28.3
+4,2023-01-19,Produto C,Categoria 2,6.0,304.11
+5,2023-03-22,Produto C,Categoria 1,36.0,376.81
+6,2023-05-03,Produto D,Categoria 1,49.0,321.68
+7,2023-01-09,Produto B,Categoria 1,21.0,41.76
+8,2023-01-29,Produto E,Categoria 1,35.0,466.37
+9,2023-12-15,Produto E,Categoria 4,38.0,462.38
+10,2023-03-17,Produto A,Categoria 4,9.0,452.79
+11,2023-12-22,Produto E,Categoria 3,35.0,355.61
+12,2023-07-08,Produto D,Categoria 2,14.0,13.28
+13,2023-05-03,Produto E,Categoria 2,24.0,226.98
+14,2023-03-01,Produto B,Categoria 3,47.0,101.67
+15,2023-06-23,Produto C,Categoria 1,7.0,122.26
+16,2023-08-27,,,,
+17,2023-12-29,Produto E,Categoria 1,11.0,428.77
+18,2023-07-02,Produto E,Categoria 3,5.0,325.37
+19,2023-05-24,Produto D,Categoria 3,4.0,489.55
+20,2023-07-20,Produto A,Categoria 1,34.0,182.63
+21,2023-05-15,Produto C,Categoria 4,37.0,55.17
+22,2023-06-26,Produto C,Categoria 1,11.0,402.05
+23,2023-04-28,Produto B,Categoria 2,16.0,441.88
+24,2023-04-16,Produto C,Categoria 1,18.0,257.62
+25,2023-07-01,Produto C,Categoria 4,49.0,123.98
+26,2023-06-10,Produto B,Categoria 4,38.0,323.49
+27,2023-04-25,Produto A,Categoria 2,34.0,134.76
+28,2023-06-06,Produto D,Categoria 2,12.0,205.86
+29,2023-09-19,Produto E,Categoria 2,37.0,299.26
+30,2023-08-04,Produto B,Categoria 4,42.0,364.57
+31,2023-04-29,,,,
+32,2023-10-23,Produto A,Categoria 2,13.0,58.6
+33,2023-08-22,Produto C,Categoria 4,21.0,205.91
+34,2023-08-03,Produto B,Categoria 3,11.0,260.43
+35,2023-09-08,Produto A,Categoria 4,33.0,162.13
+36,2023-02-10,Produto D,Categoria 1,49.0,42.9
+37,2023-08-25,Produto E,Categoria 1,4.0,137.81
+38,2023-10-17,Produto B,Categoria 2,42.0,224.16
+39,2023-07-04,Produto B,Categoria 4,4.0,319.77
+40,2023-08-13,Produto C,Categoria 3,27.0,490.11
+41,2023-10-19,Produto B,Categoria 3,8.0,109.89
+42,2023-06-11,Produto E,Categoria 1,12.0,288.27
+43,2023-12-22,Produto A,Categoria 3,25.0,112.75
+44,2023-11-27,Produto C,Categoria 2,36.0,74.58
+45,2023-08-19,Produto D,Categoria 1,38.0,148.38
+46,2023-07-27,,,,
+47,2023-02-03,Produto D,Categoria 3,39.0,424.75
+48,2023-09-09,Produto B,Categoria 4,32.0,162.75
+49,2023-01-10,Produto C,Categoria 2,5.0,474.49
+50,2023-04-11,Produto E,Categoria 4,46.0,393.12
+51,2023-03-13,Produto B,Categoria 3,38.0,206.27
+52,2023-10-01,Produto E,Categoria 1,30.0,440.1
+53,2023-03-30,Produto B,Categoria 4,16.0,143.75
+54,2023-11-11,Produto D,Categoria 2,46.0,18.08
+55,2023-12-20,Produto D,Categoria 1,31.0,234.55
+56,2023-01-09,Produto D,Categoria 4,21.0,314.6
+57,2023-05-27,Produto D,Categoria 3,15.0,346.45
+58,2023-09-29,Produto E,Categoria 2,15.0,17.55
+59,2023-09-11,Produto B,Categoria 2,25.0,16.74
+60,2023-03-19,Produto D,Categoria 2,9.0,345.38
+61,2023-02-21,Produto A,Categoria 1,20.0,462.43
+62,2023-03-01,Produto D,Categoria 1,17.0,250.51
+63,2023-07-22,Produto C,Categoria 3,37.0,385.9
+64,2023-01-25,Produto D,Categoria 3,8.0,96.02
+65,2023-02-07,Produto B,Categoria 2,20.0,80.3
+66,2023-08-28,Produto A,Categoria 2,18.0,238.04
+67,2023-10-12,Produto D,Categoria 2,40.0,481.02
+68,2023-06-01,Produto C,Categoria 3,35.0,66.86
+69,2023-07-25,Produto D,Categoria 4,45.0,270.88
+70,2023-09-15,,,,
+71,2023-04-29,Produto A,Categoria 4,50.0,21.27
+72,2023-04-02,Produto E,Categoria 2,32.0,405.7
+73,2023-10-06,Produto A,Categoria 1,24.0,105.03
+74,2023-09-14,Produto E,Categoria 2,32.0,416.74
+75,2023-07-01,Produto D,Categoria 1,23.0,304.18
+76,2023-02-10,Produto D,Categoria 3,28.0,35.36
+77,2023-05-01,Produto A,Categoria 4,35.0,113.4
+78,2023-06-08,Produto C,Categoria 1,31.0,217.97
+79,2023-06-09,Produto D,Categoria 4,39.0,37.56
+80,2023-03-26,Produto D,Categoria 3,30.0,371.47
+81,2023-11-17,Produto E,Categoria 2,32.0,217.83
+82,2023-06-12,Produto C,Categoria 3,43.0,73.93
+83,2023-07-18,Produto D,Categoria 1,29.0,116.2
+84,2023-09-01,Produto D,Categoria 4,13.0,344.43
+85,2023-06-22,Produto D,Categoria 1,50.0,221.74
+86,2023-08-15,Produto D,Categoria 4,14.0,267.38
+87,2023-02-07,Produto E,Categoria 3,33.0,106.64
+88,2023-05-20,Produto A,Categoria 2,22.0,145.46
+89,2023-08-31,Produto B,Categoria 2,40.0,125.24
+90,2023-03-14,Produto C,Categoria 4,29.0,227.59
+91,2023-03-01,Produto D,Categoria 3,23.0,78.06
+92,2023-12-13,Produto D,Categoria 4,17.0,23.31
+93,2023-09-10,Produto C,Categoria 4,19.0,476.59
+94,2023-07-19,Produto E,Categoria 3,37.0,485.36
+95,2023-07-12,Produto D,Categoria 4,22.0,28.65
+96,2023-01-08,,,,
+97,2023-05-14,Produto A,Categoria 2,24.0,154.43
+98,2023-02-17,Produto B,Categoria 3,28.0,272.26
+99,2023-05-28,Produto B,Categoria 2,27.0,262.04
+100,2023-02-02,Produto B,Categoria 1,30.0,48.88
+101,2023-01-22,Produto E,Categoria 1,17.0,177.11
+102,2023-08-19,Produto E,Categoria 1,39.0,218.75
+103,2023-01-31,Produto D,Categoria 2,10.0,279.05
+104,2023-05-11,Produto A,Categoria 4,47.0,276.32
+105,2023-03-23,Produto D,Categoria 2,42.0,188.33
+106,2023-09-13,Produto C,Categoria 3,39.0,263.16
+107,2023-10-17,Produto C,Categoria 1,30.0,68.13
+108,2023-09-04,Produto D,Categoria 4,34.0,353.88
+109,2023-09-13,Produto C,Categoria 3,5.0,298.99
+110,2023-01-23,Produto B,Categoria 2,9.0,101.72
+111,2023-09-14,Produto C,Categoria 1,2.0,233.76
+112,2023-02-01,Produto D,Categoria 4,26.0,256.73
+113,2023-08-31,Produto A,Categoria 2,24.0,252.09
+114,2023-02-11,Produto C,Categoria 4,47.0,122.17
+115,2023-10-19,Produto B,Categoria 4,3.0,248.2
+116,2023-08-25,,,,
+117,2023-04-29,Produto B,Categoria 1,15.0,493.34
+118,2023-10-31,Produto E,Categoria 1,44.0,432.87
+119,2023-08-18,Produto C,Categoria 2,17.0,385.15
+120,2023-12-21,Produto C,Categoria 1,36.0,185.08
+121,2023-05-11,Produto B,Categoria 1,41.0,264.2
+122,2023-12-14,Produto D,Categoria 4,31.0,169.28
+123,2023-02-13,Produto E,Categoria 3,43.0,302.25
+124,2023-11-09,Produto B,Categoria 2,28.0,396.6
+125,2023-01-05,Produto B,Categoria 4,13.0,394.04
+126,2023-01-29,Produto D,Categoria 4,30.0,474.29
+127,2023-06-20,Produto E,Categoria 1,21.0,384.63
+128,2023-11-29,Produto A,Categoria 1,15.0,393.5
+129,2023-07-14,,,,
+130,2023-08-11,Produto B,Categoria 4,6.0,121.47
+131,2023-06-27,Produto D,Categoria 2,50.0,194.65
+132,2023-01-29,Produto D,Categoria 1,10.0,266.1
+133,2023-11-13,Produto B,Categoria 2,43.0,244.28
+134,2023-12-28,Produto E,Categoria 4,48.0,254.14
+135,2023-06-04,Produto C,Categoria 3,14.0,15.68
+136,2023-11-01,Produto D,Categoria 3,40.0,490.51
+137,2023-08-17,Produto D,Categoria 3,21.0,196.3
+138,2023-06-09,Produto D,Categoria 3,40.0,171.2
+139,2023-10-08,Produto D,Categoria 3,22.0,424.7
+140,2023-01-16,Produto B,Categoria 4,26.0,201.52
+141,2023-08-09,Produto C,Categoria 2,3.0,391.72
+142,2023-07-17,Produto D,Categoria 1,12.0,60.66
+143,2023-01-08,Produto C,Categoria 2,33.0,270.59
+144,2023-12-09,Produto C,Categoria 3,31.0,32.25
+145,2023-06-28,Produto D,Categoria 4,7.0,257.36
+146,2023-11-12,Produto C,Categoria 3,31.0,398.93
+147,2023-07-18,Produto C,Categoria 4,50.0,140.84
+148,2023-09-23,Produto A,Categoria 4,37.0,326.96
+149,2023-01-02,Produto B,Categoria 3,21.0,371.53
+150,2023-03-15,Produto D,Categoria 2,42.0,210.53
+151,2023-05-09,Produto B,Categoria 3,48.0,98.51
+152,2023-05-08,Produto B,Categoria 4,46.0,358.26
+153,2023-09-13,Produto E,Categoria 3,12.0,436.65
+154,2023-09-20,Produto A,Categoria 2,30.0,469.89
+155,2023-06-19,Produto B,Categoria 1,2.0,492.45
+156,2023-06-16,Produto E,Categoria 3,42.0,438.88
+157,2023-05-05,Produto C,Categoria 4,1.0,186.38
+158,2023-12-17,Produto C,Categoria 2,15.0,379.2
+159,2023-10-28,,,,
+160,2023-06-11,Produto B,Categoria 3,18.0,229.69
+161,2023-09-09,Produto D,Categoria 3,27.0,448.38
+162,2023-06-13,Produto C,Categoria 1,16.0,73.27
+163,2023-01-02,Produto D,Categoria 1,39.0,375.2
+164,2023-11-06,Produto B,Categoria 2,11.0,354.0
+165,2023-07-01,Produto B,Categoria 1,43.0,122.63
+166,2023-12-26,Produto D,Categoria 3,36.0,72.79
+167,2023-04-26,Produto C,Categoria 1,17.0,343.13
+168,2023-06-24,Produto B,Categoria 3,41.0,52.62
+169,2023-01-31,Produto E,Categoria 2,45.0,160.29
+170,2023-03-30,Produto B,Categoria 3,35.0,456.12
+171,2023-11-25,,,,
+172,2023-09-16,Produto E,Categoria 1,12.0,200.55
+173,2023-02-25,Produto E,Categoria 2,9.0,227.55
+174,2023-10-22,Produto C,Categoria 2,27.0,145.79
+175,2023-07-24,,,,
+176,2023-06-21,Produto A,Categoria 1,7.0,284.49
+177,2023-03-07,Produto E,Categoria 3,36.0,315.58
+178,2023-06-21,Produto A,Categoria 2,2.0,123.89
+179,2023-02-20,Produto C,Categoria 3,25.0,464.62
+180,2023-06-11,Produto A,Categoria 1,21.0,137.51
+181,2023-06-25,Produto B,Categoria 3,39.0,350.4
+182,2023-08-23,Produto A,Categoria 2,16.0,492.54
+183,2023-11-11,Produto C,Categoria 1,2.0,444.13
+184,2023-10-08,Produto D,Categoria 2,1.0,33.56
+185,2023-11-13,Produto C,Categoria 1,30.0,275.67
+186,2023-09-05,Produto E,Categoria 2,33.0,360.94
+187,2023-10-20,Produto C,Categoria 1,4.0,231.03
+188,2023-03-04,Produto E,Categoria 3,3.0,141.39
+189,2023-07-21,Produto E,Categoria 2,28.0,119.63
+190,2023-10-25,Produto C,Categoria 2,48.0,185.35
+191,2023-01-03,Produto C,Categoria 4,33.0,330.52
+192,2023-02-21,Produto C,Categoria 3,30.0,274.68
+193,2023-03-21,Produto D,Categoria 2,9.0,423.48
+194,2023-12-29,Produto E,Categoria 2,32.0,143.41
+195,2023-12-02,Produto D,Categoria 2,23.0,335.1
+196,2023-08-25,Produto A,Categoria 1,44.0,486.26
+197,2023-03-23,Produto D,Categoria 3,37.0,177.91
+198,2023-12-02,Produto E,Categoria 1,18.0,198.18
+199,2023-04-11,Produto B,Categoria 2,20.0,173.12
+200,2023-10-24,Produto D,Categoria 1,33.0,46.59
+96,2023-01-08,,,,
+16,2023-08-27,,,,
+31,2023-04-29,,,,
+159,2023-10-28,,,,
+129,2023-07-14,,,,
+116,2023-08-25,,,,
+70,2023-09-15,,,,
+171,2023-11-25,,,,
+175,2023-07-24,,,,
+46,2023-07-27,,,,
+67,2023-10-12,Produto D,Categoria 2,40.0,481.02
+183,2023-11-11,Produto C,Categoria 1,2.0,444.13
+166,2023-12-26,Produto D,Categoria 3,36.0,72.79
+79,2023-06-09,Produto D,Categoria 4,39.0,37.56
+187,2023-10-20,Produto C,Categoria 1,4.0,231.03
+178,2023-06-21,Produto A,Categoria 2,2.0,123.89
+57,2023-05-27,Produto D,Categoria 3,15.0,346.45
+153,2023-09-13,Produto E,Categoria 3,12.0,436.65
+83,2023-07-18,Produto D,Categoria 1,29.0,116.2
+69,2023-07-25,Produto D,Categoria 4,45.0,270.88
