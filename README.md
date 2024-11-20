@@ -5,19 +5,6 @@
 **Teste_Analytics_MuriloCalore** é um projeto desenvolvido para demonstrar habilidades em análise exploratória de dados e manipulação de banco de dados. O projeto inclui a geração de um dataset simulado de vendas, limpeza dos dados, análises exploratórias com Python e consultas SQL para extrair insights específicos.
 
 ## Estrutura do Projeto
-Teste_Analytics_MuriloCalore/
-├── data/
-│   ├── vendas_dataset.csv
-│   ├── data_clean.csv
-├── scripts/
-│   ├── limpeza_analise_vendas.py
-│   ├── analise_exploratoria_vendas.py
-│   └── consultas_sql.sql
-├── reports/
-│   └── relatorio_insights.md
-├── requirements.txt
-└── README.md
-
 
 - **data/**: Contém os datasets utilizados.
   - vendas_dataset.csv
